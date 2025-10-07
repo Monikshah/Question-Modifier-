@@ -1,1 +1,1 @@
-VQA Question Modifier
+Evaluating VQA in Vision Language Models using Cooperative Principles
