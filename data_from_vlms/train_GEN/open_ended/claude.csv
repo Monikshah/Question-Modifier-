@@ -1,0 +1,220 @@
+question_id_unique,img_id,question,q_type,Modified_question,ans_gpt4o_modques,ans_gemini_modques,ans_claude_modques,ans_llava_modques
+1459780021,COCO_train2014_000000145978,Which vehicle is closest to you?,Which,Which vehicle with a red roof is closest to you?,Truck,"Truck
+",Airplane, Truck 
+3850500011,COCO_train2014_000000385050,Why are they lying down?,Why,Why are they lying down in front of the castle?,Resting,"Resting
+",Resting, Resting 
+1986040011,COCO_train2014_000000198604,Why is the skater wearing a helmet?,Why,Why is the skater wearing a red helmet?,Safety,"Safety
+",Safety, Safety 
+3072340021,COCO_train2014_000000307234,Which one could be a pirate?,Which,Which one standing on the skis could be a pirate?,Left,Pirate,Left, Neither 
+369500011,COCO_train2014_000000036950,Where is the photo taken?,Where,Where is the cloudy photo taken?,Netherlands,Netherlands,Highway, Street 
+1737910031,COCO_train2014_000000173791,Which player is wearing the most protective gear?,Which,Which player in the outfield is wearing the most protective gear?,Catcher,"Catcher
+",Catcher, None 
+1649090041,COCO_train2014_000000164909,Where are they hanged?,Where,Where are the white and red bus hanged?,Wall,"Wall
+",Restaurant, On wall 
+599960011,COCO_train2014_000000059996,Which item is different from the others?,Which,Which orange item is different from the others?,Carrot,"Carrot
+",Carrot, Carrot 
+2820990001,COCO_train2014_000000282099,Why is the hair on the cow's knees brown?,Why,Why is the hair on the cow's knees blackish brown?,Unknown,Dirt,Genetics, Dirt 
+4101020031,COCO_train2014_000000410102,Where is she laying?,Where,Where is she laying under the bookshelf?,Floor,"Floor
+",Floor, Floor 
+621310011,COCO_train2014_000000062131,Which way is the bird facing?,Which,Which way is the bird on the wooden table facing?,Left,Left,Right, Right 
+3808890021,COCO_train2014_000000380889,Where is the laptop?,Where,Where is the gray laptop?,Podium,Table,Podium, Table 
+1890050021,COCO_train2014_000000189005,Where is the pier?,Where,Where is the wooden pier?,Ocean,Ocean,Ocean, By ocean 
+2168050101,COCO_train2014_000000216805,Where is she standing?,Where,Where is the women in jeans standing?,Bench,Pathwalk,Park, Park 
+1632390011,COCO_train2014_000000163239,Who is skating?,Who,Who is skating on top of the platform?,Unknown,"Woman
+",Skateboarder, Girl 
+4654680131,COCO_train2014_000000465468,Which player has the knee injury?,Which,Which player in jersey has the knee injury?,Red,Red,Maroon, None 
+229070051,COCO_train2014_000000022907,Where is the bird sitting?,Where,Where is the brown bird sitting?,Feeder,"Feeder
+",Feeder, Birdhouse 
+3474190051,COCO_train2014_000000347419,Which sport are they participating?,Which,Which sport are they participating in on the court?,Tennis,"Tennis
+",Tennis, Tennis 
+455730021,COCO_train2014_000000045573,"Which moves faster, cars or cows?",Which,"Which moves faster, cars or cows grazing in the field?",Cars,"Cars
+",Cars, Cars 
+4941740101,COCO_train2014_000000494174,Where are the trouser protectors?,Where,Where are the black trouser protectors?,Ankles,Bicycle,Ankles, Nowhere visible 
+3588010011,COCO_train2014_000000358801,Where are the trees?,Where,Where are the green trees?,Background,"Background
+",Background, Background 
+1530360011,COCO_train2014_000000153036,Who is wearing glasses?,Who,Who is wearing black glasses?,Unknown,Man,Person, Man 
+4581320031,COCO_train2014_000000458132,Which room is this?,Which,Which room is this under the tree?,Outdoors,Outside,, None 
+3913040021,COCO_train2014_000000391304,Where was the picture taken?,Where,Where was the picture taken with the man wearing formal attire?,Outdoors,"Washington,DC
+",Rooftop, Boardwalk 
+1365700271,COCO_train2014_000000136570,Where is the lady?,Where,Where is the lady holding mobile in her hand?,Indoors,Front,Home, Home 
+4423260131,COCO_train2014_000000442326,Who manufactured this train car?,Who,Who manufactured this red train car behind the locomotive?,Santa Fe,Unknown,Unknown, Cannot tell just from image 
+927610021,COCO_train2014_000000092761,Where is the man surfing?,Where,Where is the black-suited man surfing?,Ocean,"Ocean
+",Ocean, Ocean 
+836350071,COCO_train2014_000000083635,Which hand has a glove?,Which,Which hand has a black glove?,Left,Right,Right, None 
+3328660021,COCO_train2014_000000332866,Which direction is the polar bear facing?,Which,Which direction is the polar bear facing on the stone?,Right,Left,Left, Right 
+2342110001,COCO_train2014_000000234211,Where was this photo taken?,Where,Where was this photo taken with the colored umbrellas?,Beach,Beach,Beach, Beach 
+5153290011,COCO_train2014_000000515329,Where is this picture taken?,Where,Where is this picture taken with lots of utensils?,Bakery,"Kitchen
+",Kitchen, Kitchen 
+1599650031,COCO_train2014_000000159965,Whose statue is sitting on the bench?,Who,Whose gold statue is sitting on the bench?,Unknown,"Unknown
+",Businessman, Man 
+2966750021,COCO_train2014_000000296675,Which parts of the catcher's body are most likely to get cramped in that position?,Which,Which parts of the catcher's body who is wearing helmet are most likely to get cramped in that position?,Knees,"Legs
+",Legs, Ankles 
+1399480001,COCO_train2014_000000139948,Who is in the blue shirt down the line?,Who,Who is in the blue shirt and black cap down the line?,Unknown,Umpire,Umpire, Player 
+5581080001,COCO_train2014_000000558108,Where are the stairs?,Where,Where are the winding stairs?,Lighthouse,"Lighthouse
+",Lighthouse, Not possible 
+3837290001,COCO_train2014_000000383729,Where was the picture taken?,Where,Where was the picture taken with parachute in above the water?,Beach,"Beach
+",Beach, Beach 
+5369290011,COCO_train2014_000000536929,Where are the boats?,Where,Where are the white and blue boats?,Dock,"Docks
+",Marina, Dock 
+5402060101,COCO_train2014_000000540206,Where is the brown belt?,Where,Where is the leather brown belt?,Waist,"Absent
+",Waist, Around man's waist 
+2962810221,COCO_train2014_000000296281,Which of the foods would most children prefer to eat?,Which,Which of the foods covered in spinach and cheese would most children prefer to eat?,Pizza,"Pizza
+",Pizza, Pizza 
+5295440011,COCO_train2014_000000529544,Which way is the hair dryer pointed?,Which,Which way is the hair dryer near the hair brush pointed?,Left,"Downward
+",Right, Right 
+5056420041,COCO_train2014_000000505642,Where is the child sitting?,Where,Where is the child wearing red dress sitting?,Fridge,"Refrigerator
+",Refrigerator, Fridge 
+5114540001,COCO_train2014_000000511454,Why does he have umbrella?,Why,Why does he have pink umbrella?,Unknown,"Sunshade
+",Sunshade, Shade 
+4999590001,COCO_train2014_000000499959,Which direction is the skier facing?,Which,Which direction is the skier with blue flag facing?,Downhill,"Left
+",Right, Left 
+5460970001,COCO_train2014_000000546097,Which jacket is different?,Which,Which jacket is different in the group of people wearing school uniform?,Red,"Teacher's
+",Red, None 
+2336300071,COCO_train2014_000000233630,Where is the boy skating?,Where,Where is the black-haired boy skating?,Sidewalk,Sidewalk,Sidewalk, Path 
+4435990011,COCO_train2014_000000443599,Which direction is the tram moving?,Which,Which direction is the large tram moving?,Left,Right,Left, North 
+1695790091,COCO_train2014_000000169579,Who is looking back at the camera?,Who,Who is looking back at the camera from behind the pine trees?,Unknown,"Skier
+",Nobody, Woman 
+3824130131,COCO_train2014_000000382413,Which way are the planes pointed?,Which,Which way are the shiny planes pointed?,Forward,"Forward
+",Right, Left 
+5231140051,COCO_train2014_000000523114,Why is the hot dog that color?,Why,Why is the hot dog next to the salad that color?,Unclear,"Brown
+",Cooked, No salad in image. 
+4231140001,COCO_train2014_000000423114,Where is the giraffe looking?,Where,Where is the brown giraffe looking?,Forward,"Right
+",Right, Forward 
+2872650001,COCO_train2014_000000287265,Where is the bowl?,Where,Where is the large bowl?,Countertop,Counter,Counter, Counter 
+726260031,COCO_train2014_000000072626,Which child holds a stuffed toy?,Which,Which child standing in the kitchen holds a stuffed toy?,Boy,"Boy
+",Boy, None 
+4271000031,COCO_train2014_000000427100,Who flies these?,Who,Who flies these planes on aircraft carriers?,Pilots,"Pilots
+",Pilots, Pilot 
+5354220021,COCO_train2014_000000535422,Why does the skateboarder have his arm upraised?,Why,Why does the skateboarder inside the indoor arena have his arm upraised?,Balance,Balance,Balance, Balance 
+1360880001,COCO_train2014_000000136088,Where was the coffee bought?,Where,Where was the coffee next to the laptop bought?,Starbucks,"Starbucks
+",Starbucks, Starbucks 
+4031980021,COCO_train2014_000000403198,Which hand is holding the bat?,Which,Which hand is holding the blue bat?,Right,Right,Both, Right 
+161110101,COCO_train2014_000000016111,Where is the grass?,Where,Where is the short grass?,Foreground,"Everywhere
+",Hillside, Field 
+3883180081,COCO_train2014_000000388318,Which way is the person leaning?,Which,Which way is the person in the black jacket leaning?,Right,"Downhill
+",Forward, Right 
+475120011,COCO_train2014_000000047512,Where is the water coming from?,Where,Where is the clear water coming from?,Hydrant,"Hydrant
+",Hydrant, Fire hydrant 
+2494410001,COCO_train2014_000000249441,Where is the plane?,Where,Where is the large plane?,Runway,"Runway
+",Runway, On runway 
+1321700411,COCO_train2014_000000132170,Who is sitting on the chair?,Who,Who is sitting on the chair beside door?,Dog,"Dog
+",Dog, Dog 
+266850021,COCO_train2014_000000026685,Which way is the giraffe facing?,Which,Which way is the spotted giraffe facing when standing near the tree?,Left,"Right
+",Left, Right 
+2030540011,COCO_train2014_000000203054,Which item is a grooming tool?,Which,Which item next to the mobile is a grooming tool?,Brush,"Brush
+",Hairbrush, Brush 
+4766420111,COCO_train2014_000000476642,Where is the sink located?,Where,Where is the white sink located?,Bathroom.,Bathroom,Bathroom, Nowhere 
+4091600061,COCO_train2014_000000409160,Where was this taken?,Where,Where was this taken wrapped in a paper?,Unknown,Ufo,Restaurant, Restaurant 
+5092100081,COCO_train2014_000000509210,Why are there curtains in front of the window?,Why,Why are there curtains in front of the glass window?,Privacy,Privacy,Privacy, Privacy 
+3918010011,COCO_train2014_000000391801,"Which came first, the tree or the sidewalk?",Which,"Which came first, the tree or the cemented sidewalk?",Tree,Tree,Tree, Tree 
+3542050031,COCO_train2014_000000354205,Where is this?,Where,Where is this with white and blue plane?,Airport,Airport,Airport, Airport 
+1789570011,COCO_train2014_000000178957,Which is the tallest animal in the photo?,Which,Which is the tallest animal near the rock?,Giraffe,"Giraffe
+",Giraffe, Giraffe 
+1789330061,COCO_train2014_000000178933,Who is wearing a necktie?,Who,Who is wearing a striped necktie?,Unknown,"He
+",Man, Man 
+5414720001,COCO_train2014_000000541472,Which of these fruits provides the most vitamin C?,Which,Which of these fruits under the metal rack provides the most vitamin C?,Apple,"Apples
+",Apple, Orange 
+5647620011,COCO_train2014_000000564762,"Which is taller, the adult giraffe or the fence?",Which,"Which is taller, the adult giraffe or the fence near the tree?",Giraffe,"Giraffe
+",Giraffe, Giraffe 
+5637130021,COCO_train2014_000000563713,Where is this vase kept?,Where,Where is this antique vase kept?,Museum,"Museum
+",Museum, Display 
+4322010031,COCO_train2014_000000432201,Which color is dominant?,Which,Which color is dominant in the parts of the room?,Steel,"Silver
+",Silver, Silver 
+1833980051,COCO_train2014_000000183398,Where is the iPod?,Where,Where is the iPod in the kitchen?,Unknown,"Not visible
+",Not visible, No iPod 
+338830001,COCO_train2014_000000033883,Why is the rider crouching down?,Why,Why is the rider crouching down on the board?,Balance,"Balance
+",Balance, Balance 
+4593470061,COCO_train2014_000000459347,Where is the child located in the picture?,Where,Where is the child with a doll located in the picture?,Right,"Absent
+",Right, Nowhere 
+4426450011,COCO_train2014_000000442645,Where are the kites being flown?,Where,Where are the kites being flown above the crowd?,Beach,"Beach
+",Beach, Sky 
+356700051,COCO_train2014_000000035670,Who has on a different colored coat?,Who,Who has on a different colored coat in front of two adult man?,Child,"Child
+",Child, Child 
+4996320051,COCO_train2014_000000499632,Where is the person sitting?,Where,Where is the fat person sitting?,Bench,"Bench
+",Bench, Bench 
+1711540661,COCO_train2014_000000171154,Where are the flowers?,Where,Where are the real flowers?,Vase,"Pitcher
+",Vase, In vase 
+1653340121,COCO_train2014_000000165334,Which form of transportation is faster?,Which,Which form of transportation nearby the trees is faster?,Bicycles,"Bicycle
+",Bicycle, Bike 
+2551370021,COCO_train2014_000000255137,Why species of animal is in the photo?,Why,What species of animal is in the photo behind the man?,Sheep,Sheep,Sheep, Sheep 
+4172990001,COCO_train2014_000000417299,Who is riding the bike?,Who,Who is riding the bike on the road?,Unknown,"Person
+",Person, Man 
+3506810021,COCO_train2014_000000350681,Where is the black car?,Where,Where is the black car?,Left,Parking lot,Right, Parking lot 
+4222950011,COCO_train2014_000000422295,Where is the cow laying?,Where,Where is the cow laying behind the woman?,Road,"Roadside
+",Street, Road 
+5392630001,COCO_train2014_000000539263,Where is the dog in the photo?,Where,Where is the black dog in the photo?,Inside,"Doorway
+",Doorway, Window 
+3132060011,COCO_train2014_000000313206,Which of these two zebra is taller?,Which,Which of these two black and white zebra is taller?,Left,"Left
+",Left, Left 
+5122890061,COCO_train2014_000000512289,Where do these animals live?,Where,Where do these spotted pink animals live?,Africa,"Africa
+",Africa, Zebra 
+2887070021,COCO_train2014_000000288707,Why is there a shadow on the fire hydrant?,Why,Why is there a shadow on the fire hydrant on the floor?,Light,"Light
+",Nighttime," Yes, there appears to be a shadow of a street light on the red fire hydrant in the foreground. This suggests that the photo was taken at night when artificial lighting is present, causing such shadows. "
+3675530041,COCO_train2014_000000367553,Why are they jumping?,Why,Why are they jumping in the field?,Frisbee,Frisbee,Frisbee, Playing frisbee 
+613380021,COCO_train2014_000000061338,Where was this picture taken?,Where,Where was this picture taken with blue water in the background?,Beach,"Greece
+",Beach, Beach 
+815040031,COCO_train2014_000000081504,Which of these can be sliced in half and juiced?,Which,Which of these organic fruit can be sliced in half and juiced?,Orange,"Oranges
+",Orange, Oranges 
+937950351,COCO_train2014_000000093795,Which animal is this?,Which,Which brown animal is this?,Pheasant,Pheasant,Pheasant, Duck 
+5635780081,COCO_train2014_000000563578,Which animal is this?,Which,Which animal is this near the pole?,Cow,"Cow
+",Cow, Cow 
+1975990001,COCO_train2014_000000197599,Why does this animal have hair?,Why,Why does this animal by the log have hair?,Young,"Warmth
+",Mammal, Mammal 
+3530000041,COCO_train2014_000000353000,Where was the picture taken?,Where,Where was the picture taken with the giraffe's natural habitat?,Zoo,"Zoo
+",Zoo, Zoo 
+2349570041,COCO_train2014_000000234957,Which horse is a baby?,Which,Which horse on the field is a baby?,Left,"Left
+",Left, On left 
+1676930001,COCO_train2014_000000167693,Where are the zebras facing?,Where,Where are the black and white zebras facing?,Right,Right,Right, Right 
+1966110011,COCO_train2014_000000196611,Where is the telephone?,Where,Where is the tiny telephone?,Desk,"Desk
+",Desk, Chair 
+2363400021,COCO_train2014_000000236340,Why is there an umbrella in the room?,Why,Why is there an umbrella next to the television?,Photography,"Photoshoot
+",Photography," The image provided is a photograph of an indoor setting, likely a living room or recreation area within a home or office environment. It shows a space with various items scattered about, such as papers, pictures, and possibly a laptop on the floor. There is no umbrella visible next to the television. However, if there was an umbrella in this context, it would be unusual to find one inside, as umbrellas are typically used outdoors for protection against rain. "
+5265920021,COCO_train2014_000000526592,Why do the horses wear black squares near their eyes?,Why,Why do the brown horses wear black squares near their eyes?,Blinders,"Blindness
+",Blinders, Blinders 
+434440031,COCO_train2014_000000043444,Why is the number on the man's shirt?,Why,Why is there black number on the man's shirt?,Race,"Identification
+",Identification," This image appears to have been altered or edited, as the man in the foreground does not seem to be wearing a shirt with a black number on it. The image itself shows a skier skiing down a snowy slope, and there are no visible texts that would confirm your statement about the black number on the man's shirt. "
+192380031,COCO_train2014_000000019238,Which of the teddy bear's hands is on top?,Which,Which of the brown teddy bear's hands is on top?,Right,"Left
+",Left, None 
+1295530031,COCO_train2014_000000129553,Why doesn't the dog close his mouth?,Why,Why doesn't the dog wearing red cap close his mouth?,Relaxed,"Panting
+",Panting, Dog doesn't speak. 
+3836510001,COCO_train2014_000000383651,Which animal is standing?,Which,Which animal is standing next to the fence?,Giraffe,"Giraffe
+",Giraffe, Giraffe 
+2237260021,COCO_train2014_000000223726,Who were these men?,Who,Who were these men in ties?,I don't know.,Presidents,Presidents, Presidents 
+1917170031,COCO_train2014_000000191717,Where is this?,Where,Where is this with sink and window?,Kitchen,"Kitchen
+",Kitchen, Kitchen 
+1257610091,COCO_train2014_000000125761,Where is the hot dog?,Where,Where is the hot dog next to the pancake?,Sausage,Right,Right, On plate 
+5578750011,COCO_train2014_000000557875,Why is the pavement wet?,Why,Why is the black and white pavement wet?,Rain,"Rain
+",Rain, Rain 
+270410011,COCO_train2014_000000027041,Where are the cars parked?,Where,Where are the cars next to the bicycle parked?,Street,Street,Street, Street 
+5245720001,COCO_train2014_000000524572,Where is the cat sitting?,Where,Where is the brown cat sitting?,Stump,"Stump
+",Stump, Log 
+3992820031,COCO_train2014_000000399282,Who is riding the elephant?,Who,Who is riding the black elephant?,Unknown,"Mahout
+",Person, Man 
+2964550041,COCO_train2014_000000296455,Which person is going to a fancy event?,Which,Which person wearing the formal dress is going to a fancy event?,Unknown,"Man
+",Both, Man on right 
+2576320031,COCO_train2014_000000257632,Who brought the umbrella?,Who,Who brought the umbrella behind the rocks?,Unknown,"Person
+",Beachgoer, Woman 
+4481390041,COCO_train2014_000000448139,Which animals are these?,Which,Which black and brown animals are these?,Horses,Horses,Horses, Horses 
+461710021,COCO_train2014_000000046171,Where is light coming from?,Where,Where is light coming from behind the teddy bear?,Window,"Window
+",Window, Behind 
+228820351,COCO_train2014_000000022882,Which hand is holding the glass?,Which,Which hand is holding the wine glass above the table?,Right,"Right
+",Right, Right 
+1687300021,COCO_train2014_000000168730,Where is the photo taken?,Where,Where is the maroon-walled photo taken?,Kitchen,"Kitchen
+",Kitchen, Kitchen 
+5667240031,COCO_train2014_000000566724,Who is looking out the window?,Who,Who is looking out the glass window?,Cat,"Cat
+",Cat, Cat 
+5352780071,COCO_train2014_000000535278,Why might this woman be trying to touch the screen?,Why,Why might this woman be trying to touch the blue screen?,Unclear,Work,Touchscreen," It's not clear why she would try to touch the blue screen, as it could be part of her job or task at hand. The image is low resolution and only shows a portion of the scene, so there may be contextual clues that are not visible here. "
+5799950091,COCO_train2014_000000579995,Where is the woman sitting?,Where,Where is the woman sitting wearing white sweater?,Bed.,Bed,Bed, No white sweater visible in image provided 
+3811600021,COCO_train2014_000000381160,Who makes this mouse?,Who,Who makes this wireless mouse?,Apple,"Apple
+",Apple, Apple 
+610011,COCO_train2014_000000000061,Why are the people on the elephants?,Why,Why are the people on the gray elephants?,Touring,"Riding
+",Tourism, Safari 
+3858040001,COCO_train2014_000000385804,"Why does the horse have a number ""4"" on its back?",Why,"Why does the running horse have a number ""4"" on its back?",Race,"Identification
+",Race identification," The number four is typically used to identify a jockey in a race, as indicated by the racing silks on the horse and rider. In this context, it likely signifies the racing number of the horse or jockey combination participating in a race. "
+1604290001,COCO_train2014_000000160429,Which way is the giraffe facing?,Which,Which way is the brown giraffe facing?,Left,"Left
+",Left, Left 
+121020041,COCO_train2014_000000012102,Where is this cat lying?,Where,Where is this black cat lying?,Toilet,Toilet,Toilet, Toilet 
+4178700011,COCO_train2014_000000417870,Which game are they playing?,Which,Which game are they playing in from of the building?,Skateboarding,"Skateboarding
+",Skateboarding, Skateboarding 
+945890021,COCO_train2014_000000094589,Who are in the photo?,Who,"Who are in the photo, sitting in blue and white high chairs?",Children,"Infants
+",Babies, Babies 
